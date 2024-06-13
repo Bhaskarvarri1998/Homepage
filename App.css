@@ -1,0 +1,21 @@
+.App{
+    height:100vh;
+    width:100vw;
+    text-align: center;
+    background-color:rgb(225, 233, 230);
+}
+
+
+.app-head{
+  text-align: center;
+  color: blueviolet;
+  font-size: 50px;
+  padding-top: 50px;
+}
+
+ .Excel{
+ padding-top: 150px;
+}
+.button{
+  background-color:aqua;
+} 
